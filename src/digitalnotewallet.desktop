@@ -1,10 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=DigitalNote Wallet
-Comment=DigitalNote wallet
-Exec=digitalnotewallet
+Name=UltraNote Wallet
+Comment=UltraNote wallet
+Exec=ultranotewallet
 Terminal=false
 Type=Application
-Icon=digitalnote
-MimeType=x-scheme-handler/digitalnotewallet;
+Icon=ultranote
+MimeType=x-scheme-handler/ultranotewallet;
 Categories=Office;Finance;
